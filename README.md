@@ -2,6 +2,8 @@
 
 - [ADK LLM RAG MCP Overview](ADK_RAG_MCP_LLM_Overview.md)
 - [RAG vs MC](RAG_vs_MCP.md)
+- [Store Data In RAG](Store_Data_In_RAG.md)
+- [RAG On Google Cloud](RAG_On_GCP.md)
 
 ![Alt text](adk_fancy_diagram.png)
 
@@ -43,6 +45,3 @@
 |  (Answer: "To build an AI...")    |
 +-----------------------------------+
 ```
-
-- [Store Data In RAG](Store_Data_In_RAG.md)
-- [RAG On Google Cloud](RAG_On_GCP.md)
