@@ -44,3 +44,5 @@
 +-----------------------------------+
 ```
 
+- [Store Data In RAG](Store_Data_In_RAG.md)
+- [RAG On Google Cloud](RAG_On_GCP.md)
