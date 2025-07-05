@@ -1,9 +1,12 @@
 ### AI
 
+- [Cloud AI](Cloud_AI.md)
 - [ADK LLM RAG MCP Overview](ADK_RAG_MCP_LLM_Overview.md)
 - [RAG vs MC](RAG_vs_MCP.md)
 - [Store Data In RAG](Store_Data_In_RAG.md)
 - [RAG On Google Cloud](RAG_On_GCP.md)
+
+- [GCP AI Services](GCP_AI_Services.md)
 
 ![Alt text](adk_fancy_diagram.png)
 
